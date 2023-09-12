@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ggR7DpqGFXHAM0FCNMO7JBH2XlKujlauTBRsjEPV75vhF1CuM0hK7XRftZdsZN+DzWamlQaFyep+XRCAfrC8ig==",
+  "dgSpecHash": "6QL2jqaczfGSqW3scRjrhOHEeD31Ep7kf6m+P2IybDl+/COFhmpbRk/SPiRvZABWi7YudqJt03/ggQJmKQTdvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etec\\Documents\\GitHub\\MinhaLojinha\\LojinhaServer\\LojinhaServer.csproj",
+  "projectFilePath": "C:\\Users\\etec\\Desktop\\MinhaLojinha\\LojinhaServer\\LojinhaServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
